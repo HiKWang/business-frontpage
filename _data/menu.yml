@@ -2,7 +2,7 @@
   link: /
 
 - title: About
-  link: /about/
+  link: "/about/"
 
 - title: Services
   link: "/services/"
